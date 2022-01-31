@@ -17,6 +17,8 @@ design flexible and reusable object-oriented software, that is, objects that are
 
 An airline needs to solve a problem: A ticket can be made up of a single leg or a composite leg. We need to calculate the value.
 
+## Solution
+
 <img src="composite.drawio.png" alt="observable pattern">
 
 
